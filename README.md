@@ -1,7 +1,3 @@
-Sure, here's a sample README for your To-Do App project. Feel free to customize it as needed!
-
----
-
 # To-Do App
 
 ## Overview
